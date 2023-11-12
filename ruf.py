@@ -6,6 +6,7 @@ from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.screenmanager import Screen
 from kivy.uix.screenmanager import ScreenManager
 from instructions import *
+from mathindexruf import *
 
 name = 0
 age = 0
